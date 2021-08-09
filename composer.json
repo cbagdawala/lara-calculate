@@ -1,0 +1,18 @@
+{
+    "name": "cbagdawala/lara-calculate",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Chintan Bagdawala",
+            "email": "chintan@bagdawala.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Cbagdawala\\Calc\\": "src/"
+        }
+    }
+}
